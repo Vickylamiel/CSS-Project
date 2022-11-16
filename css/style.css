@@ -1,0 +1,38 @@
+*{
+    background-color: #fff;
+}
+
+h1{
+    font-size: 18px;
+}
+
+p{
+    font-size: 14px;
+}
+
+#first-section{
+    color: rgb(0, 128, 0);
+    border: 1px solid #000;
+    border-radius: 10px;
+    line-height: 1.4;
+    padding: 20px;
+    margin: 10px 10px;
+}
+
+#second-section{
+    color: rgb(255, 0, 0);
+    border: 1px dotted #000;
+    border-radius: 10px;
+    line-height: 1.4;
+    padding: 20px;
+    margin: 10px 10px;
+}
+
+#third-section{
+    color: rgb(0, 0, 255);
+    border: 1px dashed #000;
+    border-radius: 10px;
+    line-height: 1.4;
+    padding: 20px;
+    margin: 10px 10px;
+}
